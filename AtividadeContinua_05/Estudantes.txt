@@ -1,0 +1,4 @@
+1000:Marco Antônio:marco@gmail.com:GRAD:30
+1001:Ângela Maria:amaria@yahoo.com.br:POS:Teste Automatizado:Carlos Torres
+1002:Fábio Lopes:fabio@hotmail.com:POS:Engenharia de Dados:Maria Marcondes
+1003:Ana Clara:aninha@gmail.com.br:GRAD:40
